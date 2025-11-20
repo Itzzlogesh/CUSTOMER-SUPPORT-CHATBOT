@@ -1,0 +1,4 @@
+- [x] Update package.json to add node-fetch dependency
+- [x] Update server.js to import and use node-fetch
+- [x] Run npm install to install dependencies
+- [x] Start the server and test API functionality
